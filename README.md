@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Helin 👋</h1>
 
 <p align="center">
-   Most of what I build comes from the same question: how do you teach a system to actually pay attention? I'm exploring that through computer vision and, more recently, through training LLMs. In my free time, I am also exploring mechatronics related projects.
+Most of what I build comes from the same question: how do you teach a system to actually pay attention? I'm exploring that through computer vision and, more recently, through training LLMs. In my free time, I am also exploring mechatronics related projects.
 </p>
 
 ---
