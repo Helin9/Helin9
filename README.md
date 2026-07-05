@@ -29,6 +29,6 @@ Most of what I build comes from the same question: how do you teach a system to 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Helin9&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
